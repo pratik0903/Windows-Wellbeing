@@ -32,8 +32,7 @@ For storing data, json file is used. Script generates json file named `tracker.j
     Cheers!! :clinking_glasses:
     Now double-click `Runner.vbs` file from file explorer and it will start `WindowsWellbeing.exe` file without opening command prompt.<br/>
     :pushpin:After starting `script.exe` through `Runner.vbs`, `tracker.json` file will get created in the same directory as that of `script.exe`.<br/>
-    As you can see task manager shows that `script.exe` is running in background.<br/>
-    <img src="images/taskmanagerScreenShot.png" alt="Task Manager screenshot" width="500"/><br/>
+    You can see task manager shows that `script.exe` is running in background.<br/>
     Now you can continue with your work and script will note your timing with each app untill it gets interrupted.
     ###### In order to view your usage, open `tracker.json` present in `dist` directory. (Opening with VS code shows live changes happening to file)
 
